@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/77b11704-204d-40d1-9f6f-ba426d02c4f9" /># META-Ad-Performance-Analysis-Using-Power-BI-
 <img width="1366" height="768" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/c500624b-6ed8-4439-b613-5e9da33b6d73" />
 
 "This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad campaigns 
