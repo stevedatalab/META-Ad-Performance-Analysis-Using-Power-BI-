@@ -3,9 +3,11 @@
 "This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad campaigns 
 across key KPIs such as impressions, clicks, engagements, conversions, and budget.
 "The key metrics are: 
+
 216K impressions 
 25.4K clicks
 very high CTR(Click Through Rate) of 11.76%. 
+
 This is well above the industry average, which tells me the ad 
 creatives and targeting were very effective in attracting attention. 
 The engagement rate is also strong at 13.56%, showing users are interacting with the content. 
