@@ -1,11 +1,14 @@
 <img width="1366" height="768" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/c500624b-6ed8-4439-b613-5e9da33b6d73" />
 
-"This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad campaigns 
+This is a Meta Ad Performance Dashboard that tracks the effectiveness of ad campaigns 
 across key KPIs such as impressions, clicks, engagements, conversions, and budget.
-"The key metrics are: 
+
+The key metrics are: 
 
 216K impressions 
+
 25.4K clicks
+
 very high CTR(Click Through Rate) of 11.76%. 
 
 This is well above the industry average, which tells me the ad 
@@ -25,6 +28,7 @@ purchasing power.
 
 
 In summary: 
+
 1. Strong awareness & engagement, but low purchase efficiency → optimize landing 
 pages, retargeting, and offers. 
 2. Target audience = young females, 18–30, in India & Brazil → refine campaigns 
