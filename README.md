@@ -13,9 +13,9 @@ very high CTR(Click Through Rate) of 11.76%.
 
 This is well above the industry average, which tells me the ad 
 creatives and targeting were very effective in attracting attention. 
-The engagement rate is also strong at 13.56%, showing users are interacting with the content. 
+The engagement rate is also strong at 13.58%, showing users are interacting with the content. 
 However, when we move down the funnel, only 1.3K purchases were made, giving a 
-conversion rate of 5.21% from clicks and a purchase rate of 0.61% from impressions. 
+conversion rate of 5.64% from clicks and a purchase rate of 0.61% from impressions. 
 This indicates a big drop in efficiency from engagement to purchase." 
 
 Looking at demographics, females (43%) engage more than males (22%), and the 18–30 
